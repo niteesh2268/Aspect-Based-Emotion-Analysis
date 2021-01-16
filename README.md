@@ -1,7 +1,7 @@
 -------------------------------------------------------------
 Project Name - Aspect Based Emotion Analyis
 -------------------------------------------------------------
-Contributors: 
+Contributors: <br />
 Kunal Verma		(203050121 - kunalverma) <br />
 Nimesh Agrawal		(203050049 - nimesh) <br />
 Mallela Niteesh Kumar	(203050065 - niteesh) 
