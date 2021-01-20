@@ -13,6 +13,12 @@ category .The term aspect refers to an attribute or a component of the product .
 into anger,sadness happiness, surprise and joy .Aspect-based analysis allows us to associate specific emotion to different aspects
 of a product 
 
+Example:<br />
+
+Review : The food was good but service was bad <br />
+Aspect list  : {'food ','service'} <br />
+Aspect Emotion list : {'food': 'Happy', 'service': 'Sad'} <br />
+
 Methodology
 ------------------------
 We have divided our project into 5 subtasks
