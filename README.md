@@ -15,9 +15,9 @@ of a product
 
 Example:<br />
 
-Review : The food was good but service was bad <br />
+**Review : The food was good but service was bad <br />
 Aspect list  : {'food ','service'} <br />
-Aspect Emotion list : {'food': 'Happy', 'service': 'Sad'} <br />
+Aspect Emotion list : {'food': 'Happy', 'service': 'Sad'} <br />**
 
 Methodology
 ------------------------
