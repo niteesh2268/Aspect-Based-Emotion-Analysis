@@ -9,7 +9,7 @@ Mallela Niteesh Kumar	(203050065 - niteesh)
 Project Description
 ----------------------
 Aspect based emotion analysis aims to extract various aspects of reviews and determine the corresponding emotion for each aspect 
-category .The term aspect refers to an attribute or a component of the product .nstead of classifyingthe emotion of overall review
+category .The term aspect refers to an attribute or a component of the product .Instead of classifyingthe emotion of overall review
 into anger,sadness happiness, surprise and joy .Aspect-based analysis allows us to associate specific emotion to different aspects
 of a product 
 
